@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Evomorph"]
+	path = Evomorph
+	url = https://github.com/cran/Evomorph
+	shallow = true
+	registered = true
+[submodule "metrix"]
+	path = metrix
+	url = https://github.com/cran/metrix
+	shallow = true
+	registered = true
